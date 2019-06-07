@@ -1,5 +1,5 @@
 import queue
-import PythonWordGame.game as game
+import game
 import re
 from numpy import inexact
 
